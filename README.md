@@ -106,13 +106,19 @@ This analysis includes **160 male individuals**.
          SL != "NA")
 
 2. Selective scans
+   Filtering:...............
    a.
    b.
    c.
    d.
    e.
-   f.
-   
+#### f. xp-EHH:  
+_(requires phased data - data were phased to fAstCal1.2 reference)_
+This scan was carried out on 187+98 (littoral+benthic respectively).
+Calc_IHH_xpEHH.R was used which extracts IHH for each population, in addition to xp-EHH.
+- **Directory**:
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/EHH_IHH_Selection/biallelics/HIGH_SEQ_depth/`
+
 3. Expresssion analyses using:
    a. RNAseq data from 58 wildcaught individuals
    b. RNAseq data from Aaron's experiment
