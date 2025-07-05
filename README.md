@@ -56,7 +56,7 @@ This analysis includes **288 male individuals**.
          SL != "NA")
 
 #### c. `egg_spot_number`
-This analysis includes **288 male individuals**.
+This analysis includes **260 male individuals**.
 
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_GWAS_eggsot_number`
@@ -72,7 +72,7 @@ This analysis includes **288 male individuals**.
          EggspotNumber != "NA" & 
          SL != "NA")
 #### d. `egg_spot_number_Theis`
-This analysis includes **288 male individuals**.
+This analysis includes **243 male individuals**.
 
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_GWAS_eggSpot_theis`
@@ -88,7 +88,7 @@ This analysis includes **288 male individuals**.
          SL != "NA")
  
 #### d. `egg_spot_number_Hue`
-This analysis includes **288 male individuals**.
+This analysis includes **160 male individuals**.
 
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_HUE`
