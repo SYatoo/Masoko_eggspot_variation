@@ -38,7 +38,22 @@ This analysis includes **288 male individuals** and uses the same input files an
          Aligned_SpotSize_PropOfFin != "NA" & 
          SL != "NA")
    
+#### b. `egg_spot_size`
+This analysis includes **288 male individuals** and uses the same input files and filtering steps as the `masoko_eggspot_size` GWAS.
 
+- **Directory**:  
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+
+- **Phenotype column** (from `metafile`):  
+  `#Aligned_Total_Eggspot_size_PropOfFin`
+
+- **Filtering criteria**:  
+  ```r
+  subset(masoko, 
+         Sex == "Male" & 
+         seq_depth > 10 & 
+         Aligned_SpotSize_PropOfFin != "NA" & 
+         SL != "NA")
 2. Selective scans
    a.
    b.
