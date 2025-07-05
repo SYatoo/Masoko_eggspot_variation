@@ -19,9 +19,28 @@ Analyses carried out:
 ################################################################################################################################################################
 ################################################################################################################################################################
 1. GWAS  _Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
+All GWAS were carried out using GEMMA and ANGSD: [see: https://github.com/Santos-cichlids/Methods-and-tools/tree/main/Bioinformatics/GWAS]
+   a. egg_spot_Area
+This analysis includes 288 male individuals, using the same input files and filtering criteria as the masoko_eggspot_size GWAS.
 
-   a.
-   b.
+Location: /rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_Area
+
+Phenotype: #Aligned_Total_Eggspot_area_PropOfFin (from the metafile)
+
+Filtering criteria:
+Samples were filtered using the following conditions:
+
+R
+Copy
+Edit
+subset(masoko, Sex == "Male" & seq_depth > 10 & Aligned_SpotSize_PropOfFin != "NA" & SL != "NA")
+Covariates used: Only SL (Standard Length) was included as a covariate in the GWAS.
+
+b. egg_spot_size
+
+Location: /rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size/
+
+Shares the same filtering pipeline and input data as the egg_spot_Area analysis.
    c.
    d.
    e.
