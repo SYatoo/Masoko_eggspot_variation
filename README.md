@@ -28,7 +28,7 @@ This analysis includes **288 male individuals** and uses the same input files an
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_Area`
 
 - **Phenotype column** (from `metafile`):  
-  `#Aligned_Total_Eggspot_area_PropOfFin`
+  `Aligned_Total_Eggspot_area_PropOfFin`
 
 - **Filtering criteria**:  
   ```r
@@ -45,7 +45,7 @@ This analysis includes **288 male individuals** and uses the same input files an
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
 
 - **Phenotype column** (from `metafile`):  
-  `#Aligned_Total_Eggspot_size_PropOfFin`
+  `Aligned_SpotSize_PropOfFin`
 
 - **Filtering criteria**:  
   ```r
