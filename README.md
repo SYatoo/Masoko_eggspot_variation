@@ -15,10 +15,11 @@ Analyses carried out:
 3. Expresssion analyses using:
    a. RNAseq data from 58 wildcaught individuals
    b. RNAseq data from Aaron's experiment
+
+
 ################################################################################################################################################################
-################################################################################################################################################################
-################################################################################################################################################################
-### GWAS  _Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
+### 1. GWAS  
+_Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
 All GWAS were carried out using GEMMA and ANGSD: [see: https://github.com/Santos-cichlids/Methods-and-tools/tree/main/Bioinformatics/GWAS]
 #### a. `egg_spot_Area`
 
