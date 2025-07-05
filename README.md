@@ -59,7 +59,7 @@ This analysis includes **288 male individuals**.
 This analysis includes **288 male individuals**.
 
 - **Directory**:  
-  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_GWAS_eggsot_number`
 
 - **Phenotype column** (from `metafile`):  
   `EggspotNumber`
@@ -75,7 +75,7 @@ This analysis includes **288 male individuals**.
 This analysis includes **288 male individuals**.
 
 - **Directory**:  
-  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_GWAS_eggSpot_theis`
 
 - **Phenotype column** (from `metafile`):  
   `EggspotNumberTheis`
@@ -91,7 +91,7 @@ This analysis includes **288 male individuals**.
 This analysis includes **288 male individuals**.
 
 - **Directory**:  
-  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_HUE`
 
 - **Phenotype column** (from `metafile`):  
   `Aligned_SpotSize_PropOfFin`
