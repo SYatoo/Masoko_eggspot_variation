@@ -22,7 +22,7 @@ Analyses carried out:
 All GWAS were carried out using GEMMA and ANGSD: [see: https://github.com/Santos-cichlids/Methods-and-tools/tree/main/Bioinformatics/GWAS]
 #### a. `egg_spot_Area`
 
-This analysis includes **288 male individuals** and uses the same input files and filtering steps as the `masoko_eggspot_size` GWAS.
+This analysis includes **288 male individuals**.
 
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_Area`
@@ -39,7 +39,7 @@ This analysis includes **288 male individuals** and uses the same input files an
          SL != "NA")
    
 #### b. `egg_spot_size`
-This analysis includes **288 male individuals** and uses the same input files and filtering steps as the `masoko_eggspot_size` GWAS.
+This analysis includes **288 male individuals**.
 
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
