@@ -88,7 +88,7 @@ This analysis includes **243 male individuals**.
   EggspotNumberTheis != "NA" & 
          SL != "NA")
  
-#### d. `egg_spot_number_Hue`
+#### e. `egg_spot_number_Hue`
 This analysis includes **160 male individuals**.
 
 - **Directory**:  
