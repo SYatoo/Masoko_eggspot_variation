@@ -19,7 +19,7 @@ Analyses carried out:
 
 ################################################################################################################################################################
 ### 1. GWAS  
-_Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
+_Metdata (https://docs.google.com/spreadsheets/d/1rJda7cw5H4N52hMqD5NrAQfIXbaVSL6f/edit?gid=1587235546#gid=1587235546) were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
 All GWAS were carried out using GEMMA and ANGSD: [see: https://github.com/Santos-cichlids/Methods-and-tools/tree/main/Bioinformatics/GWAS]
 #### a. `egg_spot_Area`
 
