@@ -107,15 +107,14 @@ This analysis includes **160 male individuals**.
 
 2. Selective scans
    Filtering:...............
-   a.
-   b.
-   c.
-   d.
-   e.
-#### f. xp-EHH:  
+#### a. Fst 
+#### b. dxy
+#### c. Tajima's D 
+#### d. Pi 
+#### e. xp-EHH:  
 _(requires phased data - data were phased to fAstCal1.2 reference)_
 This scan was carried out on 187+98 (littoral+benthic respectively).
-Calc_IHH_xpEHH.R was used which extracts IHH for each population, in addition to xp-EHH.
+Calc_IHH_xpEHH.R was used which outputs IHH for each population, in addition to xp-EHH.
 - **Directory**:
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/EHH_IHH_Selection/biallelics/HIGH_SEQ_depth/`
 
