@@ -12,8 +12,29 @@ Analyses carried out:
   c. Tajima's D
   d. Pi
   e. xpEHH
+3. Expresssion analyses using:
+   a. RNAseq data from 58 wildcaught individuals
+   b. RNAseq data from Aaron's experiment
+################################################################################################################################################################
+################################################################################################################################################################
+################################################################################################################################################################
+1. GWAS  _Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above._
 
-1.GWAS
-Metdata [[ADD A LINK]] were subsetted based on the analyses to be carried out - NA's dropped and minimum sequence depth set to atleast 10X or above.
+   a.
+   b.
+   c.
+   d.
+   e.
+   
 
-
+2. Selective scans
+   a.
+   b.
+   c.
+   d.
+   e.
+   f.
+   
+3. Expresssion analyses using:
+   a. RNAseq data from 58 wildcaught individuals
+   b. RNAseq data from Aaron's experiment
