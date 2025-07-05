@@ -54,6 +54,56 @@ This analysis includes **288 male individuals**.
          seq_depth > 10 & 
          Aligned_SpotSize_PropOfFin != "NA" & 
          SL != "NA")
+
+#### c. `egg_spot_number`
+This analysis includes **288 male individuals**.
+
+- **Directory**:  
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+
+- **Phenotype column** (from `metafile`):  
+  `EggspotNumber`
+
+- **Filtering criteria**:  
+  ```r
+  subset(masoko, 
+         Sex == "Male" & 
+         seq_depth > 10 & 
+         EggspotNumber != "NA" & 
+         SL != "NA")
+#### d. `egg_spot_number_Theis`
+This analysis includes **288 male individuals**.
+
+- **Directory**:  
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+
+- **Phenotype column** (from `metafile`):  
+  `EggspotNumberTheis`
+
+- **Filtering criteria**:  
+  ```r
+  subset(masoko, 
+         Sex == "Male" & seq_depth > 10 &
+  EggspotNumberTheis != "NA" & 
+         SL != "NA")
+ 
+#### d. `egg_spot_number_Hue`
+This analysis includes **288 male individuals**.
+
+- **Directory**:  
+  `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_eggspot_size`
+
+- **Phenotype column** (from `metafile`):  
+  `Aligned_SpotSize_PropOfFin`
+
+- **Filtering criteria**:  
+  ```r
+  subset(masoko, 
+         Sex == "Male" & 
+         seq_depth > 10 & 
+         spot.hue != "NA" & 
+         SL != "NA")
+
 2. Selective scans
    a.
    b.
