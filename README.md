@@ -23,7 +23,7 @@ This folder contains all scripts used to analyze the **Masoko** dataset.
    - RNAseq data from Aaron's experiment
       
 4. [3'UTR and mi-RNA binding](#4-3utr-and-mi-rna-binding) 
-    
+   - Extracting 3'UTR from vcf 
 ---
 
 ## 1. GWAS  
@@ -176,3 +176,4 @@ bash Calc_Pi_Tajima.bash
 ### b. RNAseq from Aaron’s experiment  
 - Analyzed using: `Domain_Sex_deseq_Aaron.R`
 ## 4. 3'UTR and mi-RNA binding
+- Extracting 3'UTR from vcf...
