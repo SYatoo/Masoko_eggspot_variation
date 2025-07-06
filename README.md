@@ -106,9 +106,17 @@ This analysis includes **160 male individuals**.
          SL != "NA")
 
 2. Selective scans
-   Filtering:...............
+   Filtering:
+1. In addition to standard filters (seq depth etc), VCF's were split into 3 (Benthic, Littoral and Middle)
+2. Only sites with <30% missingness in each of these VCF's were reatined for further analyses.
+- **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/` (VCFs including monomorphic sites)
+- **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/` (VCFs only Biallelic sites)
+  
 #### a. Fst 
-#### b. dxy
+-**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/FST_BIALLELICS/`
+
+#### b. dxy 
+This uses a vcf with all sites (including monomorphic sites)
 #### c. Tajima's D 
 #### d. Pi 
 #### e. xp-EHH:  
@@ -118,7 +126,7 @@ This scan was carried out on 187+98 (littoral+benthic respectively).
 - **Directory**:
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/EHH_IHH_Selection/biallelics/HIGH_SEQ_depth/`
 
-3. Expresssion analyses using:
+### 3. Expresssion analyses using:
 #### a. RNAseq data from 58 wildcaught individuals
 These data were analysed and plotted using `Plot_Xpr_by_eco_top_genes.R`
 
