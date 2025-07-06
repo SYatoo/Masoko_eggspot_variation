@@ -119,8 +119,12 @@ This analysis includes **160 male individuals**.
 This uses a vcf with all sites (including monomorphic sites)
 #### c. Tajima's D
 -**Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
+Here we are using VCFTOOLS to calculate Tajima's D with 10kb non-overlapping windows.
+> bash Calc_Pi_Tajima.bash #this runs Calc_Pi_Tajima.job over all chromsomes in a loop 
 #### d. Pi
 -**Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
+Here we are using VCFTOOLS to calculate Pi with different window size and step size (10kb, 5kb respectively here).
+> bash Calc_Pi_Tajima.bash #this runs Calc_Pi_Tajima.job over all chromsomes in a loop 
 #### e. xp-EHH:  
 _(requires phased data - data were phased to fAstCal1.2 reference)_
 This scan was carried out on 187+98 (littoral+benthic respectively).
