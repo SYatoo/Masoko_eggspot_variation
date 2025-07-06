@@ -20,8 +20,11 @@ This folder contains all scripts used to analyze the **Masoko** dataset.
 
 3. [Expression Analyses](#3-expression-analyses)  
    - RNAseq data from wild-caught individuals  
-   - RNAseq data from Aaron's experiment  
-
+   - RNAseq data from Aaron's experiment
+   -  
+4. [3'UTR and mi-RNA binding](#3'UTR-and0-mi-RNA-binding)  
+   - RNAseq data from wild-caught individuals  
+   - RNAseq data from Aaron's experiment 
 ---
 
 ## 1. GWAS  
@@ -173,3 +176,4 @@ bash Calc_Pi_Tajima.bash
 
 ### b. RNAseq from Aaron’s experiment  
 - Analyzed using: `Domain_Sex_deseq_Aaron.R`
+## 4. 3'UTR and mi-RNA binding
