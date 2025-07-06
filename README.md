@@ -106,21 +106,21 @@ This analysis includes **160 male individuals**.
          SL != "NA")
 
 2. Selective scans
-- **Filtering:
+- **Filtering**:
    - In addition to standard filters (seq depth etc), VCF's were split into 3 (Benthic, Littoral and Middle)
    - Only sites with <30% missingness in each of these VCF's were reatined for further analyses.
-- **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/` (VCFs including monomorphic sites)
-- **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/` (VCFs only Biallelic sites)
+- **Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/` (VCFs including monomorphic sites)
+- **Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/` (VCFs only Biallelic sites)
   
 #### a. Fst 
--**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/FST_BIALLELICS/`
+-**Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/FST_BIALLELICS/`
 
 #### b. dxy 
 This uses a vcf with all sites (including monomorphic sites)
 #### c. Tajima's D
--**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
+-**Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
 #### d. Pi
--**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
+-**Directory** `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
 #### e. xp-EHH:  
 _(requires phased data - data were phased to fAstCal1.2 reference)_
 This scan was carried out on 187+98 (littoral+benthic respectively).
