@@ -106,9 +106,9 @@ This analysis includes **160 male individuals**.
          SL != "NA")
 
 2. Selective scans
-   Filtering:
-1. In addition to standard filters (seq depth etc), VCF's were split into 3 (Benthic, Littoral and Middle)
-2. Only sites with <30% missingness in each of these VCF's were reatined for further analyses.
+- **Filtering:
+   - In addition to standard filters (seq depth etc), VCF's were split into 3 (Benthic, Littoral and Middle)
+   - Only sites with <30% missingness in each of these VCF's were reatined for further analyses.
 - **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/` (VCFs including monomorphic sites)
 - **Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans/` (VCFs only Biallelic sites)
   
