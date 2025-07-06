@@ -21,10 +21,9 @@ This folder contains all scripts used to analyze the **Masoko** dataset.
 3. [Expression Analyses](#3-expression-analyses)  
    - RNAseq data from wild-caught individuals  
    - RNAseq data from Aaron's experiment
-   -  
+      
 4. [3'UTR and mi-RNA binding](#4-3utr-and-mi-rna-binding)  
-   - RNAseq data from wild-caught individuals  
-   - RNAseq data from Aaron's experiment 
+   -  
 ---
 
 ## 1. GWAS  
