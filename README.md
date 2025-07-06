@@ -22,7 +22,7 @@ This folder contains all scripts used to analyze the **Masoko** dataset.
    - RNAseq data from wild-caught individuals  
    - RNAseq data from Aaron's experiment
    -  
-4. [3'UTR and mi-RNA binding](#3'UTR-and0-mi-RNA-binding)  
+4. [3'UTR and mi-RNA binding](#3'utr-and-mi-RNA-binding)  
    - RNAseq data from wild-caught individuals  
    - RNAseq data from Aaron's experiment 
 ---
