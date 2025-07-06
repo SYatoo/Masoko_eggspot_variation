@@ -117,8 +117,10 @@ This analysis includes **160 male individuals**.
 
 #### b. dxy 
 This uses a vcf with all sites (including monomorphic sites)
-#### c. Tajima's D 
-#### d. Pi 
+#### c. Tajima's D
+-**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
+#### d. Pi
+-**Directory `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/genome_scans_ALL/BENTHIC_LITTORAL/PER_SNP`
 #### e. xp-EHH:  
 _(requires phased data - data were phased to fAstCal1.2 reference)_
 This scan was carried out on 187+98 (littoral+benthic respectively).
