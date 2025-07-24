@@ -94,7 +94,7 @@ subset(masoko,
 ```
 
 ### e. `egg_spot_Hue`
-- **N** = 160 males  
+- **N** = 159 males  
 - **Phenotype column**: `spot.hue`  
 - **Directory**:  
   `/rds/project/rds-8b3VcZwY7rY/projects/cichlid/suhaib/masoko/GWAS/masoko_HUE`
